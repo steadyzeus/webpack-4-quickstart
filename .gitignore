@@ -6,3 +6,4 @@ logs/*
 !.gitignore
 dist/
 dest/
+.idea/
